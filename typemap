@@ -32,3 +32,4 @@ TypeMap:
       binary+l //depot/....upk
       binary+l //depot/....udk
       binary+l //depot/....ubulk
+      binary+wS //..._BuiltData.uasset
